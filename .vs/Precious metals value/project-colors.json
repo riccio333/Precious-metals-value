@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "db6d41c3-7fb2-4bad-af51-aa46d104265f": {
+      "ProjectGuid": "db6d41c3-7fb2-4bad-af51-aa46d104265f",
+      "DisplayName": "Precious metals value",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

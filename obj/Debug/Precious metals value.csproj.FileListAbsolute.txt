@@ -1,0 +1,18 @@
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\bin\Debug\Precious metals value.exe.config
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\bin\Debug\Precious metals value.exe
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\bin\Debug\Precious metals value.pdb
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\bin\Debug\Newtonsoft.Json.dll
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\bin\Debug\TwelveDataSharp.dll
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\bin\Debug\Newtonsoft.Json.xml
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\obj\Debug\Precious metals value.csproj.AssemblyReference.cache
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\obj\Debug\Precious metals value.csproj.SuggestedBindingRedirects.cache
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\obj\Debug\Precious_metals_value.Properties.Resources.resources
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\obj\Debug\Precious metals value.csproj.GenerateResource.cache
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\obj\Debug\Precious metals value.csproj.CoreCompileInputs.cache
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\obj\Debug\Precious metals value.csproj.CopyComplete
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\obj\Debug\Precious metals value.exe
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\obj\Debug\Precious metals value.pdb
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\bin\Debug\Siticone.Desktop.UI.dll
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\bin\Debug\Guna.UI2.dll
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\obj\Debug\Precious_metals_value.Calculate_page.resources
+C:\Users\erikp\OneDrive\Desktop\Precious metals value\obj\Debug\Precious_metals_value.Price_page.resources
