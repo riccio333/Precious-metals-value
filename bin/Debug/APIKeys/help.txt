@@ -1,14 +1,15 @@
-## How to get your APIKey for metals value:
+---How to get your APIKey for metals value:
 
--Go to https://www.goldapi.io/ and click the button 'get free api key or sign in' and choose your google account.
+Go to https://www.goldapi.io/ and click the button 'get free api key or sign in' create an account.
 
--Then the site will reditect you to the dashboard of the site. Copy your APIKey and paste it in the file called APIKey.txt
+When your account you will reditect to the dashboard of the site. Copy your APIKey and paste it in the file called APIKey.txt
 
 
-## How to get your APIKey for exchange value:
+---How to get your APIKey for exchange value:
 
--Go to https://freecurrencyapi.net/ and click the button 'Get Free API Key' and create an account. 
+Go to https://freecurrencyapi.net/ and click the button 'Get Free API Key' and create an account. 
 
--Verify your account and go to https://freecurrencyapi.net/dashboard
+Verify your account and go to https://freecurrencyapi.net/dashboard
+**If you don't want to put your personal info, go to 'https://fake-it.ws/' and use that fake identity.**
 
--Copy your APIKey and paste it in the file called APIKey usd-eur.txt
+Copy your APIKey and paste it in the file called APIKey usd-eur.txt

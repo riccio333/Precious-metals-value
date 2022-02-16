@@ -2076,7 +2076,39 @@ Copy your APIKey and paste it in the file called APIKey usd-eur.txt");
 
         private async Task UsdEurAPIStatus()
         {
+            GetAPIKeyEURUSD();
 
+            string APIKeyusdeur = Environment.CurrentDirectory + @"\APIKeys\APIKey usd-eur.txt";
+            string APIKey = File.ReadLines(APIKeyusdeur).First();
+
+            var client = new HttpClient();
+            var request = new HttpRequestMessage
+            {
+                Method = HttpMethod.Get,
+                RequestUri = new Uri("https://freecurrencyapi.net/api/v2/latest?apikey=" + APIKey + "&base_currency=EUR"),
+                Headers =
+    {
+        { "x-rapidapi-host", "https://freecurrencyapi.net/api/v2/latest?apikey=" + APIKey + "&base_currency=EUR"}
+    },
+            };
+
+            using (var response = await client.SendAsync(request))
+            {
+                if (response.StatusCode == HttpStatusCode.OK)
+                {
+                    response.EnsureSuccessStatusCode();
+                    var body = await response.Content.ReadAsStringAsync();
+
+                    Root status = JsonConvert.DeserializeObject<Root>(body);
+                    MessageBox.Show("APIs are all fine.", "API Status", MessageBoxButtons.OK, MessageBoxIcon.Information);
+
+                }
+                else
+                {
+                    MessageBox.Show("APIs are currenly offline.", "API Status", MessageBoxButtons.OK, MessageBoxIcon.Error);
+                }
+
+            }
         }
 
         private void siticoneRoundedButton1_Click(object sender, EventArgs e)
